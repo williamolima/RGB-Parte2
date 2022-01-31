@@ -1,4 +1,4 @@
-package com.angeloplacebo.rgb
+package com.williamolima.rgb
 
 import android.content.BroadcastReceiver
 import android.content.Context
